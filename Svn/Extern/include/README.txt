@@ -1,6 +1,6 @@
 [i] Check if you have before:
 
-Add this folder into Extern/include/
+Add this folder:
 
-You can download updated here:
+You can download from here:
 https://github.com/nlohmann/json/tree/develop/include/nlohmann
