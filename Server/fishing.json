@@ -1,0 +1,445 @@
+[
+	{
+		"name": "꽝",
+		"vnum": 0,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [3000, 3000, 2100, 2000],
+		"difficulty": 10,
+		"time_type": 0,
+		"length_range": [0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "금반지",
+		"vnum": 50002,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [50, 50, 200, 200],
+		"difficulty": 200,
+		"time_type": 0,
+		"length_range": [0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "피라미",
+		"vnum": 27802,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [2000, 1800, 800, 2200],
+		"difficulty": 10,
+		"time_type": 4,
+		"length_range": [500, 550, 600],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "붕어",
+		"vnum": 27803,
+		"dead_vnum": 27833,
+		"grill_vnum": 27863,
+		"prob": [1950, 1600, 800, 700],
+		"difficulty": 13,
+		"time_type": 4,
+		"length_range": [1000, 2500, 2800],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "쏘가리",
+		"vnum": 27804,
+		"dead_vnum": 27834,
+		"grill_vnum": 27864,
+		"prob": [900, 800, 700, 600],
+		"difficulty": 16,
+		"time_type": 0,
+		"length_range": [2000, 3500, 3800],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "월척붕어",
+		"vnum": 27805,
+		"dead_vnum": 27835,
+		"grill_vnum": 27865,
+		"prob": [700, 700, 700, 600],
+		"difficulty": 20,
+		"time_type": 1,
+		"length_range": [3030, 3500, 4300],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "잉어",
+		"vnum": 27806,
+		"dead_vnum": 27836,
+		"grill_vnum": 27866,
+		"prob": [200, 300, 600, 800],
+		"difficulty": 26,
+		"time_type": 0,
+		"length_range": [4000, 6000, 10000],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "연어",
+		"vnum": 27807,
+		"dead_vnum": 27837,
+		"grill_vnum": 27867,
+		"prob": [200, 200, 500, 600],
+		"difficulty": 33,
+		"time_type": 0,
+		"length_range": [6000, 8000, 10000],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "향어",
+		"vnum": 27808,
+		"dead_vnum": 27838,
+		"grill_vnum": 27868,
+		"prob": [100, 100, 250, 200],
+		"difficulty": 42,
+		"time_type": 0,
+		"length_range": [1500, 3000, 3800],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "송어",
+		"vnum": 27809,
+		"dead_vnum": 27839,
+		"grill_vnum": 27869,
+		"prob": [100, 100, 250, 350],
+		"difficulty": 54,
+		"time_type": 0,
+		"length_range": [5000, 7000, 8000],
+		"used_table": [0, 1, 0, 0, 2, 3, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "민물장어",
+		"vnum": 27810,
+		"dead_vnum": 27840,
+		"grill_vnum": 27870,
+		"prob": [0, 100, 250, 200],
+		"difficulty": 70,
+		"time_type": 0,
+		"length_range": [4000, 5000, 6000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "무지개송어",
+		"vnum": 27811,
+		"dead_vnum": 27841,
+		"grill_vnum": 27871,
+		"prob": [0, 100, 250, 150],
+		"difficulty": 91,
+		"time_type": 0,
+		"length_range": [5000, 7000, 8000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "강송어",
+		"vnum": 27812,
+		"dead_vnum": 27842,
+		"grill_vnum": 27872,
+		"prob": [0, 100, 250, 150],
+		"difficulty": 118,
+		"time_type": 2,
+		"length_range": [4000, 6000, 7000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "러드",
+		"vnum": 27813,
+		"dead_vnum": 27843,
+		"grill_vnum": 27873,
+		"prob": [0, 100, 200, 100],
+		"difficulty": 153,
+		"time_type": 0,
+		"length_range": [4000, 6000, 10000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "퍼치",
+		"vnum": 27814,
+		"dead_vnum": 27844,
+		"grill_vnum": 27874,
+		"prob": [0, 100, 200, 100],
+		"difficulty": 198,
+		"time_type": 0,
+		"length_range": [3000, 4000, 5000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "텐치",
+		"vnum": 27815,
+		"dead_vnum": 27845,
+		"grill_vnum": 27875,
+		"prob": [0, 50, 200, 100],
+		"difficulty": 235,
+		"time_type": 0,
+		"length_range": [3500, 5500, 8000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "메기",
+		"vnum": 27816,
+		"dead_vnum": 27846,
+		"grill_vnum": 27876,
+		"prob": [50, 50, 200, 100],
+		"difficulty": 257,
+		"time_type": 0,
+		"length_range": [3000, 5000, 10000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "미꾸라지",
+		"vnum": 27817,
+		"dead_vnum": 27847,
+		"grill_vnum": 27877,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 334,
+		"time_type": 2,
+		"length_range": [1800, 2200, 3000],
+		"used_table": [1, 0, 0, 2, 3, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "백련",
+		"vnum": 27818,
+		"dead_vnum": 27848,
+		"grill_vnum": 27878,
+		"prob": [50, 50, 200, 100],
+		"difficulty": 370,
+		"time_type": 0,
+		"length_range": [5000, 8000, 10000],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "은어",
+		"vnum": 27819,
+		"dead_vnum": 27849,
+		"grill_vnum": 27879,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 434,
+		"time_type": 0,
+		"length_range": [1500, 3000, 3800],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "빙어",
+		"vnum": 27820,
+		"dead_vnum": 27850,
+		"grill_vnum": 27880,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 733,
+		"time_type": 2,
+		"length_range": [1500, 3000, 3800],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "쉬리",
+		"vnum": 27821,
+		"dead_vnum": 27851,
+		"grill_vnum": 27881,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 952,
+		"time_type": 0,
+		"length_range": [1000, 1500, 2000],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "비늘잉어",
+		"vnum": 27822,
+		"dead_vnum": 27852,
+		"grill_vnum": 27882,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 1608,
+		"time_type": 1,
+		"length_range": [4000, 6000, 10000],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "황금붕어",
+		"vnum": 27823,
+		"dead_vnum": 27853,
+		"grill_vnum": 27883,
+		"prob": [0, 0, 0, 0],
+		"difficulty": 2090,
+		"time_type": 1,
+		"length_range": [1000, 3000, 3500],
+		"used_table": [1, 0, 2, 3, 0, 0, 4, 0, 0, 0]
+	},
+
+	{
+		"name": "탈색약",
+		"vnum": 70201,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [100, 100, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "염색약(흰색)",
+		"vnum": 70202,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [85, 85, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "염색약(금색)",
+		"vnum": 70203,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [85, 85, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "염색약(빨간색)",
+		"vnum": 70204,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [85, 85, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "염색약(갈색)",
+		"vnum": 70205,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [85, 85, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "염색약(검은색)",
+		"vnum": 70206,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [85, 85, 0, 0],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "은둔자의 망토",
+		"vnum": 70048,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [25, 25, 200, 100],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "행운의 반지",
+		"vnum": 70049,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [25, 25, 200, 100],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "선왕의 증표",
+		"vnum": 70050,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [25, 25, 200, 100],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "선왕의 장갑",
+		"vnum": 70051,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [25, 25, 200, 100],
+		"difficulty": 60,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "금덩어리",
+		"vnum": 80008,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [25, 25, 100, 100],
+		"difficulty": 250,
+		"time_type": 1,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "은열쇠",
+		"vnum": 50009,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [0, 0, 150, 100],
+		"difficulty": 70,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	},
+
+	{
+		"name": "금열쇠",
+		"vnum": 50008,
+		"dead_vnum": 0,
+		"grill_vnum": 0,
+		"prob": [0, 0, 100, 50],
+		"difficulty": 100,
+		"time_type": 0,
+		"length_range": [0, 0, 0, 0],
+		"used_table": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+	}
+]
