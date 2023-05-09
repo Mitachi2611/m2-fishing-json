@@ -26,7 +26,7 @@
 		[...]
 	};
 
-// and remplace with:
+// and replace with:
 
 	struct SFishInfo
 	{
